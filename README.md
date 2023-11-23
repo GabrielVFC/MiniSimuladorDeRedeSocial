@@ -32,8 +32,8 @@
 
 Como funciona:
 
-• Quando o programa é iniciado, aparece uma janela onde o usuário irá se cadastrar e fazer o login. Para se cadastrar, o usuário deve colocar seu nome, e-mail, senha e se a conta é do tipo usuário
-ou do tipo administrativa. Quando o usuário fazer seu cadastro, ele vai clicar em login, para poder logar.
+• Quando o programa é iniciado, aparece uma janela onde o usuário irá se cadastrar e fazer o login. Para se cadastrar, o usuário deve colocar seu nome, e-mail, senha e se a conta é do tipo usuário (usando "n" para usuário)
+ou do tipo administrativa (usando "y" para administrador). Quando o usuário fazer seu cadastro, ele vai clicar em login, para poder logar.
 
 • Depois que o usuário fazer o login, ele irá para outra janela contendo lista de amigos, adicionar amigos, remover amigo e sair da conta.
 
