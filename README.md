@@ -241,3 +241,12 @@ implementação de uma interface, torna o sistema mais modular e fácil de enten
 Mudanças na lógica de gerenciamento de contas podem ser feitas dentro de
 ContasFacadeImpl sem afetar outras partes do sistema que usam esta funcionalidade.
 
+• Considerações Finais:
+• Erros:
+Deu muitos erros no programa, como por exemplo: quando ia cadastrar o usuário, nunca cadastrava, também quando fazia o login sempre dava email ou senha incorreta
+mesmo com a senha certa, não dava pra procurar um amigo com o nome, ja q mesmo que cadastrado ele não existia, a lista de amigos listava o nome, email e senha do 
+usuário, não consegui criar uma label pra mostrar o tipo de usuário que está logado.
+• Sucessos: Consegui criar os botões para que funcionem corretamente, fiz mudança de cor na janela e mudei o visual dos botões, consegui fazer o login e o cadastro 
+funcionar com números indefinidos de usuário, fiz com que a lista de amigos aparecesse apenas o nome e o tipo de conta, fiz com que o usuário conseguisse procurar
+o amigo cadastrado, e remover ele.
+
